@@ -1,0 +1,5 @@
+{
+  "name": "TrendPulse - Social Data Explorer",
+  "description": "A real-time trend discovery dashboard powered by Gemini and Google Search Grounding to track viral topics across TikTok, X, Reddit, and more.",
+  "requestFramePermissions": []
+}
